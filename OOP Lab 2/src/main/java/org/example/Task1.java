@@ -15,7 +15,7 @@ public class Task1 {
 
                 if(input.equals(password)){
                     System.out.println("Right!!!");
-                    System.out.println("The secret is lololololo");
+                    System.out.println("The secret is lol");
                 }
             }
     }
